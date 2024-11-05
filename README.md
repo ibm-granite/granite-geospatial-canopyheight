@@ -1,6 +1,6 @@
 # A Fine-Tuned Geospatial Foundation Model for Canopy Height Model
 
-Public notebooks and utilities for working with the fine-tuned granite-geospatial-canopyheight model
+Public notebooks and utilities for working with the fine-tuned granite-geospatial-canopyheight model which you can find on [Hugging Face](https://huggingface.co/ibm-granite/granite-geospatial-canopyheight).
 
 ## Initial Setup
 
