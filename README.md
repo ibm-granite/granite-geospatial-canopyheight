@@ -14,7 +14,7 @@ Then run `pip install -e .` to install all necessary dependencies to run the not
 
 ## 📕 Notebook
 
-Check out the [Getting Started Notebook!](https://github.com/ibm-granite/granite-geospatial-canopyheight/notebooks/che_getting_started.ipynb)
+Check out the [Getting Started Notebook!](https://github.com/ibm-granite/granite-geospatial-canopyheight/blob/main/notebooks/canopyheight_getting_started.ipynb)
 
 ## IBM Public Repository Disclosure
 
